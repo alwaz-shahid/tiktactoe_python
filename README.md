@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 -   Inspiration
 -   etc
 
-Feel free to customize the above template, according to your project. Make sure to change the **Your name** , **Your GitHub name** and **LICENSE.md** to your project specific details.
+
